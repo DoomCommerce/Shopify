@@ -1,5 +1,5 @@
 ---
-title : Shopify Guides by DoomCommerce 
+title : Shopify Guides
 ---
 
-Fill me up UwU
+Check out the [Custom Endpoints](./Custom-Endpoints.md) guide.
