@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title : Shopify Guides by DoomCommerce 
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Fill me up UwU
