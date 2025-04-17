@@ -25,6 +25,8 @@ points to the section wrapper that Shopify generates.
 The `sectionId` can directly be used  
 to declare section scoped variables.
 
+### Tag
+
 ```liquid
 <style>
 
@@ -33,4 +35,20 @@ to declare section scoped variables.
     }
 
 </style>
+```
+
+### Inline
+
+```liquid
+{%- liquid
+
+    capture style
+        echo '---Variable : '
+        echo value
+        echo ';'
+    endcapture
+
+-%}
+
+<div style = '{{- style -}}' ></div>
 ```
