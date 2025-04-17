@@ -9,6 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "DoomCommerce",
+    htmlTitle: "Doom<wbr/>Commerce",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
